@@ -34,6 +34,3 @@ When I'm not diving into the world of AI, I’m likely exploring a new destinati
 
 ---
 
-### 🌟 GitHub Stats  
-
-*(Add your GitHub stats here if you'd like, using a plugin like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
